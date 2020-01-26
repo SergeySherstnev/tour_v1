@@ -1,4 +1,5 @@
 <template>
+
   <v-app>
     <core-filter />
 
@@ -8,6 +9,7 @@
 
     <core-view />
   </v-app>
+
 </template>
 
 <style lang="scss">
